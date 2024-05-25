@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+ <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCDKZkMwwOurISGjyjbEyn9zPgmSke0MAw&libraries=places&callback=initMap" async defer></script>
+ <script src="js/main.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"/>
+<link rel="stylesheet" href="css/design.css">
+
+    <title>Find E-Waste Collection Centers</title>
+</head>
+
+<body>
+    <div id="search-container">
+        <input id="location-search" type="text" placeholder="Search location" onkeydown="searchOnEnter(event)">
+        <img src="ewhome/img/map/search.png" alt="Search" onclick="searchedLocation()">        
+    </div>
+    <div id="map" style="height: 400px; width: 100%;"></div>
+    <button id="locate-control" onclick="getUserLocation()">
+        <img src="ewhome/img/map/currentloc.png" alt="currloc">        
+    </button>
+    <br>
+    <h2>List of E-Waste facility Centers</h2>
+    <div class="bd">
+      <div id="card-container" class="bd">
+        <section class="swiper mySwiper">
+          <div class="swiper-wrapper">
+            <!-- Cards will be displayed here -->
+          </div>
+        </section>
+      </div>    
+    </div> 
+</body>
+</html>

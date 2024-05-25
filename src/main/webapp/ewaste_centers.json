@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Green Waves Environmental Solution",
+    "address": "P636+8HX, Near studio,Mindhi Village,, Gajuwaka,Vishakapatnam, Andhra Pradesh 530012",
+    "location": { "lat": 17.703622022747773, "lng": 83.21170797220938 }
+  },
+  {
+    "name": "Apna Bhoomi Ewaste Management Services",
+    "address": "National Highway 16, Kushalapuram, opp. Navabarath Jn, Srikakulam, Andhra Pradesh 532005",
+    "location": { "lat": 18.294017947496833, "lng": 83.86160059549209 }
+  },
+  {
+    "name": "Veera Waste Management Systems",
+    "address": "Plot no 42, Block-D IDA, Auto Nagar, Visakhapatnam, Andhra Pradesh 530012",
+    "location": { "lat": 17.700235626478136, "lng": 83.1867746115569 }
+  },
+  {
+    "name": "Binbag Recycling Services Pvt Ltd",
+    "address": "60, Andhra Pradesh Industrial Infrastructure Corporation Industrial Park, Thumakunta, Andhra Pradesh 515211",
+    "location": { "lat": 13.724773229142277, "lng": 77.50089392002911 }
+  },
+  {
+    "name": "Clean Earth Green Earth Solutions",
+    "address": "Plot:488,Survey 48&49,JEWELLERY PARK,POTHEPALLI VILLAGE, Machilipatnam, Andhra Pradesh 521002",
+    "location": { "lat": 16.206694646758496, "lng": 81.15759549494723 }
+  },
+  {
+    "name": "UNITED GLOBAL TRUST",
+    "address": "2nd floor, Rajgarh Rd, above Mira Musical Mart, Chandmari, Guwahati, Assam 781003",
+    "location": { "lat": 26.18452507172006, "lng": 91.78150709577501 }
+  },
+  {
+    "name": "ADV METAL COMBINE PVT. LTD.",
+    "address": "25, BIGC, Rasamada, Chhattisgarh 491001",
+    "location": { "lat": 21.198299649437647, "lng": 81.21587054160068 }
+  },
+  {
+    "name": "Star E Processors",
+    "address": "Plot No. 1273, Village Baktara, P.O. Godi Tashil Arang, Dist, Raipur, Chhattisgarh 492101",
+    "location": { "lat": 21.24038048093048, "lng": 81.82937281647638 }
+  },
+  {
+    "name": "Fozia Traders",
+    "address": "J Block, Street Number 8, Chauhan Bangur, Delhi 110053",
+    "location": { "lat": 28.67602263753106, "lng": 77.2596994957972 }
+  },
+  {
+    "name": "Techchef Ewaste Solutions Pvt Ltd",
+    "address": "Top Floor, C-61, DDA Sheds, Pocket A, Okhla Phase I, Okhla Industrial Estate, New Delhi, Delhi 110020",
+    "location": { "lat": 28.52771429515288, "lng": 77.2748444111378 }
+  },
+  {
+    "name": "E-coli waste management pvt ltd Asal",
+    "address": "M837+83G, Sabar Industrial Park, Asal, Gujarat",
+    "location": { "lat": 23.65344202452526, "lng": 73.31321258839199 }
+  },
+  {
+    "name": "ECS Environment Pvt Ltd.",
+    "address": "The First Besides, Itc Narmada, ECS Corporate House, B 02, Hotel, Vastrapur, Ahmedabad, Gujarat 380015",
+    "location": { "lat": 23.036620137671935, "lng": 72.52820069201611 }
+  },
+  {
+    "name": "Global E-Waste Management System",
+    "address": "Shop 729/S1 to 729/S5 Sonum Township, Goa 403709",
+    "location": { "lat": 15.269670887265073, "lng": 74.00351453354565 }
+  },
+  {
+    "name": "Group Tenplus",
+    "address": "Beth Shalom Abreovaddo, Saligao, Goa 403511",
+    "location": { "lat": 15.539950047622172, "lng": 73.7844409460381 }
+  },
+  {
+    "name": "Honey Disposal Store",
+    "address": "Plot No:67-68, Jarout Road, Village:Mandour, area, Ambala, Haryana 134003",
+    "location": { "lat": 30.40777122397444, "lng": 76.79692437673017 }
+  },
+  {
+    "name": "Thapar Disposal Industries",
+    "address": "Old Ghas Mandi , Chara Mandi Road, NH 1, Old Town, Ambala, Haryana 134003",
+    "location": { "lat": 30.392642637348917, "lng": 76.76455912840923 }
+  },
+  {
+    "name": "Shivalik solid waste management",
+    "address": "3JGM+JWF, Majra, Himachal Pradesh 174101",
+    "location": { "lat": 31.07688150040838, "lng": 76.6352810223677 }
+  },
+  {
+    "name": "Ortech India Corporation E-Waste Recycling",
+    "address": "Plot no 67 B LodhiMajra, Baddi, Himachal Pradesh",
+    "location": { "lat": 30.99672172144587, "lng": 76.7716881800375 }
+  },
+  {
+    "name": "VRG Group - Dismentling, Scrap & eWaste",
+    "address": "National Highway, opp. Shiv Mandir, Gangayal, Jammu, Jammu and Kashmir 180010",
+    "location": { "lat": 32.67437301501768, "lng": 74.8648868456256 }
+  },
+  {
+    "name": "Apna Bhoomi Ewaste Management Services",
+    "address": "4Q2R+752, Chandihar, Srinagar, 190002",
+    "location": { "lat": 34.10081597003099, "lng": 74.7905335996568 }
+  },
+  {
+    "name": "SIMRAN INFOTECH",
+    "address": "F8P6+WR5, Purulia - Dhanbad Rd, Baramasya, Jharkhand 828134",
+    "location": { "lat": 23.48735119833212, "lng": 86.31224021278247 }
+  },
+  {
+    "name": "Sriram Ecoraksha Computer Services Pvt Ltd",
+    "address": "KSSIDC Industrial Estate, B-29, Bommasandra Industrial Area, Bommasandra, Karnataka 560099",
+    "location": { "lat": 12.813841280653039, "lng": 77.68568886838284 }
+  },
+  {
+    "name": "E-Friendly Waste Recyclers",
+    "address": "1st Main Rd, Metro Lay Out, Nayanda Halli, Bengaluru, Karnataka 560039",
+    "location": { "lat": 12.945992034546181, "lng": 77.52587601625973 }
+  },
+  {
+    "name": "Kerala Enviro Infrastructure Limited",
+    "address": "Common TSDF Project Indise FACT CD Campus, Ambalamedu, Kochi, Kerala 682303",
+    "location": { "lat": 9.982417916957889, "lng": 76.36293898184333 }
+  },
+  {
+    "name": "Unique Eco Recycle",
+    "address": "26, RD Udyog Nagar, Nemawar Rd, behind Reliance petrol pump, Palda, Indore, Madhya Pradesh 452020",
+    "location": { "lat": 22.684235164070596, "lng": 75.90287973974728 }
+  },
+  {
+    "name": "Prometheus Recycling Private Limited - Plant",
+    "address": "#800 #801, Land No 786/4, 799/1, Dilawar Ka Pura, Susera, Madhya Pradesh 474005",
+    "location": { "lat": 26.319829559254384, "lng": 78.1686829221102 }
+  },
+  {
+    "name": "ECOKART TECHNOLOGY PRIVATE LIMITED",
+    "address": "No 630, 6th Floor, Esplanade One Mall, Rasulgarh, Bhubaneswar, Odisha 751010",
+    "location": { "lat": 20.293748169635098, "lng": 85.87130070121869 }
+  },
+  {
+    "name": "Punjab Waste Management Project",
+    "address": "TEHSIL, VILLAGE - NIMBUAN, POST OFFICE - RAMPUR SAINIA, Dera Bassi, 140507",
+    "location": { "lat": 30.610623559023043, "lng": 76.92537377807959 }
+  },
+  {
+    "name": "Spreco Recycling",
+    "address": "45, Focal Point Rd, Urban Estate Phase II, Jamalpur, Ludhiana, Punjab 141010",
+    "location": { "lat": 30.894423027132415, "lng": 75.91966437069539 }
+  },
+  {
+    "name": "HM E-Waste Management",
+    "address": "G1-226, RICCO Industrial area Kaharani, Bhiwadi, Rajasthan 301019",
+    "location": { "lat": 28.18248181278947, "lng": 76.87343751107902 }
+  },
+  {
+    "name": "Dhruv Techengineers Pvt. Ltd.",
+    "address": "G-1209, RIICO Industrial Area, Bhiwadi, Rajasthan 301019",
+    "location": { "lat": 28.20037287004742, "lng": 76.87079946690196 }
+  },
+  {
+    "name": "Tritech Systems",
+    "address": "941, 66th St, K K Nagar, MGR Nagar, K. K. Nagar, Chennai, Tamil Nadu 600078",
+    "location": { "lat": 13.041249077578264, "lng": 80.19439581441223 }
+  },
+  {
+    "name": "Genbruge Solutions Pvt Ltd",
+    "address": "4d/9, 3rd Main Road, Ambattur Industrial Estate, Chennai, Tamil Nadu, Chennai, Tamil Nadu 600058",
+    "location": { "lat": 13.09320348596604, "lng": 80.16080368003131 }
+  },
+  {
+    "name": "Z ENVIRO INDUSTRIES PVT LTD",
+    "address": "4C4R+8CF, Telangana 501359",
+    "location": { "lat": 17.106100101856516, "lng": 78.441271072151 }
+  },
+  {
+    "name": "Silicon Planet Recycling Pvt. Ltd.",
+    "address": "Plot no, 93 & 94, Saket Rd, Sai Priya Colony, Dammaiguda, Hyderabad, Secunderabad, Telangana 500083",
+    "location": { "lat": 17.496794402741415, "lng": 78.58755509914549 }
+  },
+  {
+    "name": "Auctus E-Recycling Solutions Pvt. Ltd.",
+    "address": "A-58 Udyog Kendra 1st, Main Surajpur Road, Habibpur, Noida-Greater Noida Expy, Noida, Uttar Pradesh 201301",
+    "location": { "lat": 28.585627680498312, "lng": 77.34079140129678 }
+  },
+  {
+    "name": "Mahalaxmi Metalloys (India) Pvt. Ltd",
+    "address": "RH83+CP5, Sikheda Road,Sikhera Hazari,Modinagar, Ghaziabad, Uttar Pradesh 201204",
+    "location": { "lat": 28.816391911841556, "lng": 77.55514237572369 }
+  },
+  {
+    "name": "Attero Recycling PVT.LTD",
+    "address": "XQ3X+3C6, Raipur, Uttarakhand 247661",
+    "location": { "lat": 29.95295904248014, "lng": 77.79888450504244 }
+  },
+  {
+    "name": "Resource Ewaste Solutions Pvt Ltd",
+    "address": "F-97, Sultanpur Majari, Industrial Area, Bahadarabad, Haridwar, Uttarakhand 249403",
+    "location": { "lat": 29.933609890855777, "lng": 78.06007609210528 }
+  },
+  {
+    "name": "J S Pigments Pvt Ltd",
+    "address": "P-199/B, CIT Rd, Scheme VI-M, Kadapara, Phool Bagan, Kankurgachi, Kolkata, West Bengal 700054",
+    "location": { "lat": 22.578834420235054, "lng": 88.39356842200115 }
+  },
+  {
+    "name": "Lubrina Recycling Pvt Ltd",
+    "address": "Deulberia, Joychandipur, West Bengal 743377",
+    "location": { "lat": 22.379698725354817, "lng": 88.21232606307872 }
+  },
+  {
+    "name": "Eco Recycling Limited",
+    "address": "Sheetal Industrial Park, Bldg No 01, Plot No 05, Behind Visava Hotel, Bhoidapada, Sativali Road, Dist, Vasai East, Palghar, 401208",
+    "location": { "lat": 19.40417094536954, "lng": 72.85927696425188 }
+  },
+  {
+    "name": "Hi-Tech Recycling India Pvt. Ltd.",
+    "address": "Jai Ganesh Warehousing, Gat No. 89, P. No. 193, A/P Shindewadi Mumbai Bangalore Highway, Ta : Bhor, Maharashtra 412205",
+    "location": { "lat": 18.387625052777892, "lng": 73.85427772430202 }
+  },
+  {
+    "name": "Techeco Waste Management LLP",
+    "address": "Gut no. 155/B/2, Dhakambe, Nashik, Maharashtra 422004",
+    "location": { "lat": 20.095292022630023, "lng": 73.81355121174457 }
+  },
+  {
+    "name": "WE The Recycling Company",
+    "address": "H.No. 2212, Behind Essar Petrol pump, Ambika City Rd, Borpada, Bhiwandi, Maharashtra 421302",
+    "location": { "lat": 19.333493801227245, "lng": 73.06549580473057 }
+  },
+  {
+    "name": "Eco Reset Private ltd",
+    "address": "47XC+PJJ, Bhowari, Maharashtra 441104",
+    "location": { "lat": 21.159907517935768, "lng": 79.28798610262123 }
+  },
+  {
+    "name": "Eco Friend Industries",
+    "address": "A205, S Central Rd, MIDC Industrial Area, Pawne, Navi Mumbai, Maharashtra 400710",
+    "location": { "lat": 19.092219410585276, "lng": 73.02701535075151 }
+  },
+  {
+    "name": "AG ENTERPRISES",
+    "address": "GAT NO 784, Pawar Vasti Rd, Kudalwadi, Chikhali, Pune, Maharashtra 411062",
+    "location": { "lat": 18.669893486702364, "lng": 73.81210282484112 }
+  },
+  {
+    "name": "Anand Computer Systems",
+    "address": "Ground, Shop No C8 & 9 2160 B Sadashiv Peth Near Dandekar Bridge Backside of SP College, Pune, Maharashtra 411030",
+    "location": { "lat": 18.50427078500173, "lng": 73.84828974334398 }
+  },
+  {
+    "name": "Avis Technoways",
+    "address": "Plot No. A, 58, behind MIDC Office, M.I.D.C., Osmanabad, Maharashtra 413501",
+    "location": { "lat": 18.228666345925514, "lng": 76.0474733971234 }
+  },
+  {
+    "name": "BABAN PLASTIC",
+    "address": "Gut no 1, midc, Sajapur Rd, Waluj, Aurangabad, Maharashtra 431136",
+    "location": { "lat": 19.87288305999923, "lng": 75.22265232618368 }
+  },
+  {
+    "name": "BHARAT E - WASTE RECYCLING CO.",
+    "address": "PLOT NO.1, LOYALKA ESTATE JMT ROAD, NEAR JANGLESHWAR MANDIR, ASALPHA, Ghatkopar West, Mumbai, Maharashtra 400084",
+    "location": { "lat": 19.099435401659683, "lng": 72.90572580756339 }
+  },
+  {
+    "name": "BHARAT E - WASTE RECYCLING CO.",
+    "address": "PLOT NO.1, LOYALKA ESTATE JMT ROAD, NEAR JANGLESHWAR MANDIR, ASALPHA, Ghatkopar West, Mumbai, Maharashtra 400084",
+    "location": { "lat": 19.16269744548591, "lng": 72.88042391093919 }
+  },
+  {
+    "name": "Clean Tech recycling",
+    "address": "B-8 unit no.3 Parasnath Industrial complex, Bhiwandi, Maharashtra 421302",
+    "location": { "lat": 19.260613237897008, "lng": 73.04884629007897 }
+  },
+  {
+    "name": "E-Clean E-Green E Waste Recycling Scrap Computers buyers",
+    "address": "C7, MK Brothers Industrial Estate, Andheri - Kurla Rd, Jarimari, Mumbai, Maharashtra 400072",
+    "location": { "lat": 19.09443182178421, "lng": 72.88503500417268 }
+  },
+  {
+    "name": "EcoTantra LLP",
+    "address": "Besides HT Switchgears, 77/6 Vishnu Malti Industrial Estate, Shivane, Pune, Maharashtra 411023",
+    "location": { "lat": 18.469950296980517, "lng": 73.79335657217884 }
+  },
+  {
+    "name": "Ecostar Recycling - E Waste Recycling",
+    "address": "1st Floor, Unit No 31-32, Khuraiya Estate, CST Road, opposite Ashok Apartment, Kalina, Santacruz East, Maharashtra 400098",
+    "location": { "lat": 19.07636541831421, "lng": 72.87140901821823 }
+  },
+  {
+    "name": "ERECON RECYCLING",
+    "address": "Shri Krishna Colony, Chilkalthana, Aurangabad, Maharashtra 431007",
+    "location": { "lat": 19.896325676938936, "lng": 75.43623730359009 }
+  },
+  {
+    "name": "Ewaste Global",
+    "address": "A. J Riverview, 33/34, Shamsundar Society, near Mhatre Bridge, Pune, Maharashtra 411030",
+    "location": { "lat": 18.51460630953976, "lng": 73.81731871031164 }
+  },
+  {
+    "name": "E-Waste Mart - Electronic Waste Recycling Company",
+    "address": "GALA NO.36/ACTS NO. 362 PAHELWAN COMPOUND, 90 Feet Rd, Saki Naka, Mumbai, Maharashtra 400072",
+    "location": { "lat": 19.154212078898993, "lng": 72.97562966505436 }
+  },
+  {
+    "name": "GOGREENRECYCLING",
+    "address": "A-8, Electronic Sadan, Mahape Midc Rd, Mahape, Navi Mumbai, Maharashtra 400701",
+    "location": { "lat": 19.112748626664125, "lng": 73.02265799752341 }
+  },
+  {
+    "name": "Grade infratech private limited",
+    "address": "QRMG+R94, Aambethan, Maharashtra 410501",
+    "location": { "lat": 18.785376472341557, "lng": 73.83016914969612 }
+  },
+  {
+    "name": "GREEN IT RECYCLING CENTER PVT. LTD.",
+    "address": "5 Ganeshprasad IInd Floor, 890, Sadashiv Peth, Pune, Maharashtra 411030",
+    "location": { "lat": 18.55584995156914, "lng": 73.87702193785682 }
+  },
+  {
+    "name": "Green IT Recycling Center Pvt Ltd",
+    "address": "Gat No 207, Plot No 3 & 4 Near Seinumero Company, near PMT Depot, Shindevadi, Maharashtra 412205",
+    "location": { "lat": 18.433758444586022, "lng": 73.90502880105471 }
+  },
+  {
+    "name": "Green Tech Solution Industries",
+    "address": "83/1B, Pandharpur-Pune road, Near MIT school ,Wakhari, Pandharpur, Maharashtra 413304",
+    "location": { "lat": 17.683872764465033, "lng": 75.30289777955726 }
+  },
+  {
+    "name": "Harshita Green Recyclers",
+    "address": "Gat No. 482, Urse Rd, Taluka, Urse, Maharashtra 410506",
+    "location": { "lat": 18.707428819161045, "lng": 73.64391135684174 }
+  },
+  {
+    "name": "KALAWISHWA ELECTRICAL PVT. LTD.",
+    "address": "Plot No - 3 Gut No- 23, Near cosmo film, Sai udhyog nagari, MIDC Waluj, Aurangabad, Maharashtra 431136",
+    "location": { "lat": 19.849071502832057, "lng": 75.2463545629022 }
+  },
+  {
+    "name": "Kapila Enterprises",
+    "address": "C-49 Supa MIDC Tal-parner, Supe, Maharashtra 414301",
+    "location": { "lat": 19.100989498624017, "lng": 74.85390313263744 }
+  },
+  {
+    "name": "Kohinoor E-waste Recycling Pvt. Ltd.",
+    "address": "Narayan nager, 7/12, Nari Seva Sadan Rd, opp. Union Bank, Gurunanak Nagar, Narayan Nagar, Ghatkopar (W, Mumbai, Maharashtra 400086",
+    "location": { "lat": 19.086861186766996, "lng": 72.89466872561336 }
+  },
+  {
+    "name": "Kuldeep E Waste Disposals",
+    "address": "No 66, Katraj - Ambegaon BK Rd, Santosh Nagar, Ambegaon Budruk, Pune, Maharashtra 411046",
+    "location": { "lat": 18.448490215038262, "lng": 73.85633711820465 }
+  },
+  {
+    "name": "Mahalaxmi E Recyclers Pvt. Ltd.",
+    "address": "Plot No 77&78, Subplot No 3A, next to Rohini Signs, Ramtekdi Industrial Area, Hadapsar, Pune, Maharashtra 411013",
+    "location": { "lat": 18.497461372206338, "lng": 73.91550571635703 }
+  },
+  {
+    "name": "Nagraj E-waste Recycling",
+    "address": "Flat No.004, Om Maa Bamleshwari App, near Patidar Bhavan, Queta Colony, Bagadganj, Nagpur, Maharashtra 440008",
+    "location": { "lat": 21.153446169083942, "lng": 79.11950216244463 }
+  },
+  {
+    "name": "Ewaste in Pune (National Traders)",
+    "address": "C -48, Veer Santaji Ghorpade Rd, near gatital police choki, Mangalwar Peth, Kasba Peth, Pune, Maharashtra 411011",
+    "location": { "lat": 18.53096117957842, "lng": 73.86614237905279 }
+  },
+  {
+    "name": "OM Recycling",
+    "address": "Shop No. 7, Sharda Plaza, 342, Rasta Peth, Pune, Maharashtra 411011",
+    "location": { "lat": 18.519557290101645, "lng": 73.86676112844209 }
+  },
+  {
+    "name": "PERFECT E- WASTE RECYCLERS",
+    "address": "Plot No. A, 8/1, MIDC Industrial Area, Chilkalthana, Aurangabad, Maharashtra 431006",
+    "location": { "lat": 19.876421613898177, "lng": 75.38280005686784 }
+  },
+  {
+    "name": "Prabhunath Traders (E-waste Management)",
+    "address": "68/03, near jain mandir, Santosh Nagar, Katraj, Pune, Maharashtra 411046",
+    "location": { "lat": 18.445306690202578, "lng": 73.85829727957304 }
+  },
+  {
+    "name": "Progressive Recycler LLP",
+    "address": "D 45 Chakan MIDC Phase 2 Bhamboli, Khed taluka, Maharashtra 410501",
+    "location": { "lat": 18.838977903275048, "lng": 73.79894270291854 }
+  },
+  {
+    "name": "Pune Greens E Waste Recycler Pvt Ltd",
+    "address": "Panasare nagar lane no. B11 Yewalewadi, Kondhwa Budruk, Pune, Maharashtra 411048",
+    "location": { "lat": 18.430882074418186, "lng": 73.88499277162535 }
+  },
+  {
+    "name": "ROYAL SCRAP TRADERS",
+    "address": "Naregaon, Chilkalthana, Aurangabad, Maharashtra 431001",
+    "location": { "lat": 19.89525759756364, "lng": 75.39635701028942 }
+  },
+  {
+    "name": "Saani Enterprise's",
+    "address": "Naregaon - Malharpur - Warud Rd, Sahajatpur, Maharashtra 431007",
+    "location": { "lat": 19.898311784218727, "lng": 75.42806716426323 }
+  },
+  {
+    "name": "SADAB TRADERS",
+    "address": "WPM8+F7F, Nashik, Maharashtra 422010",
+    "location": { "lat": 19.950672905404204, "lng": 73.74018100967366 }
+  },
+  {
+    "name": "Sayma E-waste Pune",
+    "address": "Chandraprakash Apt. Shop No.6, 252, Ganesh Peth Rd, Bodke Wada, New Nana Peth, Ganesh Peth, Pune, Maharashtra 411002",
+    "location": { "lat": 18.515755505185364, "lng": 73.86374583354815 }
+  },
+  {
+    "name": "Scape E Recycler Private Limited",
+    "address": "Chanakya Nagari, Kanad kheda, Ambedkar Nagar, Purna, Maharashtra 431511",
+    "location": { "lat": 19.180827279739265, "lng": 77.04085749548369 }
+  },
+  {
+    "name": "M/s Solapur Econ Recyfine",
+    "address": "Plot No. K47, Midc Chincholi, Taluka Mohol, Solapur, Maharashtra 413255",
+    "location": { "lat": 17.997192199837652, "lng": 76.05219213422853 }
+  },
+  {
+    "name": "Spas Computers Pvt Ltd - ITAD & Computer Refurbishing Company",
+    "address": "Hema Industrial Estate, Sarvodaya Ngr, Rajmata Jijabai Marg, Near, Meghwadi, Police Station, Jogeshwari East, Mumbai, Maharashtra 400069",
+    "location": { "lat": 19.131609534935592, "lng": 72.86290992006815 }
+  },
+  {
+    "name": "Suritex Pvt Ltd - Electronic Waste Recyclers",
+    "address": "Admn Office 5&6, Zal Complex Opp SFS school, Residency Rd, above Roast café, Sadar, Nagpur, Maharashtra 440001",
+    "location": { "lat": 21.173947923654776, "lng": 79.10855126431588 }
+  },
+  {
+    "name": "Vora Computers Pvt Ltd",
+    "address": "1B, HOTEL WOOD LANE, LARA APARTMENTS, Sadhu Vaswani Chowk, Agarkar Nagar, Pune, Maharashtra 411040",
+    "location": { "lat": 18.525589069472353, "lng": 73.8760797433445 }
+  },
+  {
+    "name": "Wonder Print Technologies",
+    "address": "Nigal Park, NAYANTARA R/H NO.08, B/H, Gangapur Rd, SHIVAR, Shivaji Nagar, Nashik, Maharashtra 422012",
+    "location": { "lat": 20.011461984092143, "lng": 73.71475761823949 }
+  }
+]
